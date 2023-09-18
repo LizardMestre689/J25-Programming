@@ -2,6 +2,7 @@
 
 
 
-## Repositori from teacher David
+## [Repositori from teacher David](https://github.com/d-prieto/J25-Programming)
 
-https://github.com/d-prieto/J25-Programming
+
+[LizardMestre689](
