@@ -22,7 +22,8 @@ Name of the function ();
 
 Has to be the exact same name (case sensitive 
 
- 
+ ![IMG_3691](https://github.com/LizardMestre689/J25-Programming/assets/144990985/66380193-a8d8-43fb-af45-aa79c6fadb06)
+
 **Examples of calling function:** (All are defined in a library) arduino.cpp 
 
 
@@ -175,12 +176,4 @@ JVM (Java Virtual Machine)
 ![Pag Number 4](image.jpg)
 ![Pag Number 5](image.jpg)
 ![Pag Number 6](image.jpg)
-
- 
-
-
-
-
-
-
 
