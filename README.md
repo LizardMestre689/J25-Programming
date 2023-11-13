@@ -19,3 +19,6 @@ Repository for studentas of the course of Programing in 1st Bachillerato
 ---
 [Cheat Sheat](https://markdownguide.offshoot.io/cheat-sheet/)
 
+## Notes from the class
+---
+[Notes](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/notes/notes.md)
