@@ -170,8 +170,8 @@ JVM (Java Virtual Machine)
 
 **Exercises to study**
 
-
-`// First Example
+```C++
+// First Example
 
 int a = 200;
 int b = 100;
@@ -210,9 +210,9 @@ void loop() {
  digitalWrite(LED_BUILTING, LOW);
  delay(c); // c = 500
 }
-
+```
 // Third example
-
+```C++
 int a = 200;
 int b = 100;
 int c = 50;
@@ -230,8 +230,8 @@ void setup() {
 
 void loop() {
 
-} `
-
+} 
+```
 ---
 ### Notes from the notebook
 
