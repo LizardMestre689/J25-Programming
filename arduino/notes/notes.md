@@ -2,9 +2,12 @@
 
 **Function in programing**
 
+
 Functions are subsets of code defined to be executed when they are called, they can have parameters that can change the behavior of the function (or not). And they can have a return (or not).  
 
+
 **Function syntaxy's in C++** 
+
 
 Definition: 
 
@@ -20,8 +23,8 @@ Name of the function ();
 Has to be the exact same name (case sensitive 
 
  
-
 **Examples of calling function:** (All are defined in a library) arduino.cpp 
+
 
 Digital write (int pin, 1 or 0) 
 
@@ -30,8 +33,8 @@ Delay (long/int)
 Pin Mode (Pin, mode) 
 
  
-
 **Examples of defining functions:** 
+
 
 Void setup (no parameter) { 
 
@@ -65,6 +68,7 @@ Serial. println (“resp”)
 
 **Variables:**
 
+
 Int dotDuration= i 
 
 Variable is a place in memory where we can store data and it’s **identified** so we can store it. 
@@ -76,12 +80,10 @@ In C++ and other highly types of programing languages, types are **mandatory** t
 Highly types Programing languages (C++,…) 
 
  
-
 Common primitive variables:	----->	Objects (complex type of variables) 
 
-Building blocks 
+**Building blocks**
 
- 
 
 Numbers (C++):  
 
@@ -93,8 +95,6 @@ Long- Bigger numbers
 
 Loat- decimal numbers 
 
- 
-
 String---> String 
 
 Chat---> Name 
@@ -102,10 +102,8 @@ Chat---> Name
 Booleans---> True/False 
 
  
-
 **Syntax of variable in C++:**
 
- 
 
 Declaration:
 
@@ -114,7 +112,6 @@ Int 			dotDuration 		;
 Type of variable		Name/Identified	only 
 
  
-
 Assignment: 
 
 dotDurarion          =           500 
@@ -122,7 +119,6 @@ dotDurarion          =           500
   Name		Equal       valve 
 
  
-
 Common assignment: C++ 
 
 a= a+1; = a++; 
@@ -130,7 +126,6 @@ a= a+1; = a++;
 b=b-1; = b--;  
 
  
-
 Naming connection: 
 
 Variables cannot have spaces. 
@@ -141,7 +136,9 @@ Objects -> start with a capital Serial
 
 Variables that do not change the value 
 
+
 **Constants**
+
 
 SREAMING_SANKE_CASE 
 
@@ -154,7 +151,6 @@ Kebab-case
 Serial: --> Its and object; -- First letter  
 
 We are going to use method inside. 
-
 
 
 Compilers or uploader: Is syntax error, or the code doesn't work. The Arduino is not connected. 
