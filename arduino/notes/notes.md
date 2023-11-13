@@ -1,10 +1,10 @@
 # Notes from the class
 
-Function in programing 
+**Function in programing**
 
 Functions are subsets of code defined to be executed when they are called, they can have parameters that can change the behavior of the function (or not). And they can have a return (or not).  
 
-Function syntaxy's in C++ 
+**Function syntaxy's in C++** 
 
 Definition: 
 
@@ -21,7 +21,7 @@ Has to be the exact same name (case sensitive
 
  
 
-Examples of calling function: (All are defined in a library) arduino.cpp 
+**Examples of calling function:** (All are defined in a library) arduino.cpp 
 
 Digital write (int pin, 1 or 0) 
 
@@ -31,7 +31,7 @@ Pin Mode (Pin, mode)
 
  
 
-Examples of defining functions: 
+**Examples of defining functions:** 
 
 Void setup (no parameter) { 
 
@@ -63,15 +63,15 @@ Serial. println (“resp”)
 
  
 
-Variables: 
+**Variables:**
 
 Int dotDuration= i 
 
-Variable is a place in memory where we can store data and it’s identified so we can store it. 
+Variable is a place in memory where we can store data and it’s **identified** so we can store it. 
 
-Variables can have types, to specifically how much memory do they need and the possibilities they can offer. 
+Variables can have **types**, to specifically how much memory do they need and the possibilities they can offer. 
 
-In C++ and other highly types of programing languages, types are mandatory to be specified. 
+In C++ and other highly types of programing languages, types are **mandatory** to be specified. 
 
 Highly types Programing languages (C++,…) 
 
@@ -103,11 +103,11 @@ Booleans---> True/False
 
  
 
-Syntax of variable in C++: 
+**Syntax of variable in C++:**
 
  
 
-Declaration:  
+Declaration:
 
 Int 			dotDuration 		; 
 
@@ -141,7 +141,7 @@ Objects -> start with a capital Serial
 
 Variables that do not change the value 
 
-Constants 
+**Constants**
 
 SREAMING_SANKE_CASE 
 
