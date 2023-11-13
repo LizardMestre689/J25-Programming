@@ -1,6 +1,6 @@
-### Explanation of the Code
+# Explanation of the Code
 
-# Blink Variation 1
+## Blink Variation 1
 ---
 In this code we have a configuration that sends and outputs to the LED, this output tells the arduino that the LED on pin 13 has to be on for 2000 milliseconds and then it has to turn off for 1000 milliseconds. This whole process will only be carried out when the Arduino starts working since it is in the setup.
 
@@ -10,7 +10,7 @@ Then it will repeat the following code indefinitely, the LED will be on for 500 
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Blink-Variation-01/Blink-Variation-01.ino)
 
-# Blink Variation 2
+## Blink Variation 2
 ---
 In this code we have a setup that tells us that the LED will be on for 1500 milliseconds, off for 1000 milliseconds, on for 500 milliseconds and off for 1000 milliseconds.
 
@@ -20,7 +20,7 @@ Afterwards in the Loop the LED will turn on and off in 125 millisecond intervals
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Blink-Variation-02/Blink-Variation-02.ino)
 
-# Blink Variation 3
+## Blink Variation 3
 ---
 To command we are going to determine that the Interval (dotDuration will be equal to 500).
 
@@ -33,7 +33,7 @@ This code is based on recreating a name in Morse code using the LED as responsib
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Blink-Variation-03/Blink-Variation-03.ino)
 
-# Blink Variation 4
+## Blink Variation 4
 ---
 In this code we define that (int dot = 500, and int dash = 3*dot) this means that a dot is equal to 500 milliseconds and a dash is 3 times the value of the dot)
 
@@ -55,7 +55,7 @@ so that the loop looks cleaner and the arduino only has to check what morse_x() 
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Blink-Variation-06/Blink-Variation-06.ino)
 
-# Funtional Programing 1
+## Funtional Programing 1
 ---
 In this code we have determined the values of morseDash and morseDot, setting with intervals how long each of these lasts, simplifying the previous code to make it easier to read.
 
@@ -68,7 +68,7 @@ It is basically a graphical simplification of the previous one.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Funtional_Programing_1/Funtional_Programing_1.ino)
 
-# Funtional Programing 2
+## Funtional Programing 2
 ---
 In this code what we have done is that an LED reproduces a name in Morse code over and over again indefinitely, and each time it does so it will finally have a delay of 2000 milliseconds.
 
@@ -81,7 +81,7 @@ The objective in this code is to simplify the previouse one.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Funtion_Programing_2/Funtion_Programing_2.ino)
 
-# Funtional Programing 3
+## Funtional Programing 3
 ---
 In this code we implement a new function in the void morseBlink(), now we implement an "int NumberOfDots" in the parentheses. In order not to have to put a dashduration and simplify the terms we use. Within the parentheses we will enter the number of times the LED has to shine to represent the letter of the name that we are representing on the Arduino.
 
@@ -91,7 +91,7 @@ In the loop we do exactly the same, repeating the established name an infinite n
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Funtional_Programing_3/Funtional_Programing_3.ino)
 
-# Funtional Programing 5
+## Funtional Programing 5
 ---
 
 This code is somewhat different from the previous ones already mentioned. In this code, in)stead of using the Morse code as if it were represented with a light, in this code it will be represented graphically and grammatically with the symbols that correspond to them, with dots and dashes.
@@ -102,7 +102,7 @@ In the code it is determined that a point is a (.) and a dash is a (-). Each of 
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Funtional_Programing_5/Funtional_Programing_5.1.ino)
 
-# Serial Reader 1 Cooking System 1
+## Serial Reader 1 Cooking System 1
 ---
 
 The code in the Loop identifies that if we write something, the arduino program will respond by telling us ("You Wirght: "+ whatever we have written).
@@ -116,7 +116,7 @@ Then the code will write to us ("we are cooking").
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Serial_Reader_1/Serial_Reader_1.ino)
 
-# Serial Reader 1 Cooking System 2
+## Serial Reader 1 Cooking System 2
 ---
 
 This code is based on creating a recipe, in this case a Spanish tortilla. (WITH ONION)
@@ -136,7 +136,7 @@ Finally, we can replenish what we have not spent by writing the missing ingredie
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Serial_Reader_1_Cooking_system_2/Serial_Reader_1_Cooking_system_2.ino)
 
-# Serial Reader 1 Cooking System 3
+## Serial Reader 1 Cooking System 3
 ---
 
 This code is exactly the same as the previous one, only we change the ingredients we use, which are bread, salt, garlic, tomato and oil and also the dish we create, which in this case is a delicious bread with Catalan tomato.
@@ -144,7 +144,7 @@ This code is exactly the same as the previous one, only we change the ingredient
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Serial_Reader_1_Cooking_system_3_Own_Recipe_copy/Serial_Reader_1_Cooking_system_3_Own_Recipe_copy.ino)
 
-# Serial Reader 1 Cooking System 4
+## Serial Reader 1 Cooking System 4
 ---
 This code is similar to the previous one.
 
@@ -160,7 +160,7 @@ But now we also have an inventory that tells us the ingredients we have availabl
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Serial_Reader_1_Cooking_system_4_2Recipees/Serial_Reader_1_Cooking_system_4_2Recipees.ino)
 
-# Special Message Mateo
+## Special Message Mateo
 ---
 The objective of this code is to make the Arduino write us a drawing with characters from the keyboard.
 
