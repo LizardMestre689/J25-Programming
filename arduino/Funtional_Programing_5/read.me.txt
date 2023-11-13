@@ -1,0 +1,3 @@
+This code is somewhat different from the previous ones already mentioned. In this code, instead of using the Morse code as if it were represented with a light, in this code it will be represented graphically and grammatically with the symbols that correspond to them, with dots and dashes.
+
+In the code it is determined that a point is a (.) and a dash is a (-). Each of the letters will be represented with their respective signs and when a letter is written a (/) will be placed to represent that the letter has already been written and that we are going to the next one. Thus an indeterminate number of times over and over again.
