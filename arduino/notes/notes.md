@@ -1,4 +1,4 @@
-# Notes from the class
+# 🗒️Notes from the class🗒️
 
 **Function in programing**
 
@@ -82,7 +82,7 @@ Highly types Programing languages (C++,…)
  
 Common primitive variables:	----->	Objects (complex type of variables) 
 
-**Building blocks**
+**🧱Building blocks🧱**
 
 
 Numbers (C++):  
@@ -136,9 +136,11 @@ Objects -> start with a capital Serial
 
 Variables that do not change the value 
 
+![BoyKidGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/0e2ef500-01ec-4e9f-97db-57dad6a5af54)
 
 **Constants**
 
+Constants![WawaCatLoveIsAConstantGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/bd03c1da-dcd7-4284-af4e-e2d8d9c457fd) 
 
 SREAMING_SANKE_CASE 
 
@@ -168,7 +170,7 @@ Interpreting: The code, it read line by line and resumed line by line
 JVM (Java Virtual Machine) 
 
 
-**Exercises to study**
+**Exercises to study (っ °Д °;)っ**
 
 ```C++
 // First Example
