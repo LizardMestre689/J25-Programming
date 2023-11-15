@@ -19,7 +19,7 @@ Calling a function:
 
 Name of the function ();
 
-Has to be the exact same name (case sensitive 
+Has to be the exact same name (case sensitive) 
 
 
 **Examples of calling function:** (All are defined in a library) arduino.cpp 
