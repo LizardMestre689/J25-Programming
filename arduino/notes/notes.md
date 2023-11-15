@@ -1,13 +1,13 @@
 # 🗒️Notes from the class🗒️
 
 **Function in programing**
-
+---
 
 Functions are subsets of code defined to be executed when they are called, they can have parameters that can change the behavior of the function (or not). And they can have a return (or not).  
 
 
 **Function syntaxy's in C++** 
-
+---
 
 Definition: 
 
@@ -24,7 +24,7 @@ Has to be the exact same name (case sensitive
 
 
 **Examples of calling function:** (All are defined in a library) arduino.cpp 
-
+---
 
 Digital write (int pin, 1 or 0) 
 
@@ -34,7 +34,7 @@ Pin Mode (Pin, mode)
 
  
 **Examples of defining functions:** 
-
+---
 
 Void setup (no parameter) { 
 
@@ -67,7 +67,7 @@ Serial. println (“resp”)
  
 
 **Variables:**
-
+---
 
 Int dotDuration= i 
 
@@ -83,7 +83,7 @@ Highly types Programing languages (C++,…)
 Common primitive variables:	----->	Objects (complex type of variables) 
 
 **🧱Building blocks🧱**
-
+---
 
 Numbers (C++):  
 
@@ -103,7 +103,7 @@ Booleans---> True/False
 
  
 **Syntax of variable in C++:**
-
+---
 
 Declaration:
 
@@ -119,14 +119,18 @@ dotDurarion          =           500
   Name		Equal       valve 
 
  
-Common assignment: C++ 
+**Common assignment: C++** 
+---
+
 
 a= a+1; = a++; 
 
 b=b-1; = b--;  
 
  
-Naming connection: 
+**Naming connection:**
+---
+
 
 Variables cannot have spaces. 
 
@@ -139,6 +143,8 @@ Variables that do not change the value
 ![BoyKidGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/0e2ef500-01ec-4e9f-97db-57dad6a5af54)
 
 **Constants**
+---
+
 
 Constants![WawaCatLoveIsAConstantGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/bd03c1da-dcd7-4284-af4e-e2d8d9c457fd) 
 
@@ -153,7 +159,6 @@ Kebab-case
 Serial: --> Its and object; -- First letter  
 
 We are going to use method inside. 
-
 
 Compilers or uploader: Is syntax error, or the code doesn't work. The Arduino is not connected. 
 
@@ -171,6 +176,8 @@ JVM (Java Virtual Machine)
 
 
 **Exercises to study (っ °Д °;)っ**
+---
+
 
 ```C++
 // First Example
@@ -234,9 +241,9 @@ void loop() {
 
 } 
 ```
----
-### Notes from the notebook
 
+### Notes from the notebook
+---
 
 ![Pag 1](https://github.com/LizardMestre689/J25-Programming/assets/144990985/14df1ab5-e245-43f4-8c00-278684abc651)
 ![Pag 2](https://github.com/LizardMestre689/J25-Programming/assets/144990985/6e44771d-f1eb-4850-9628-d872dfd53550)
