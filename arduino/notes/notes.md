@@ -144,14 +144,13 @@ Variables that do not change the value
 **Constants**
 ---
 
-
-Constants![WawaCatLoveIsAConstantGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/bd03c1da-dcd7-4284-af4e-e2d8d9c457fd) 
+![WawaCatLoveIsAConstantGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/bd03c1da-dcd7-4284-af4e-e2d8d9c457fd) 
 
 🐍SREAMING_SANKE_CASE🐍
 
 In C++ you can enforce it: 
 
-LUYI=4; ---> makes a compiling error 
+LUYI=4; ---> makes a compiling error❌ 
 
 🥙Kebab-case 🥙
 
@@ -161,13 +160,13 @@ We are going to use method inside.
 
 Compilers or uploader: Is syntax error, or the code doesn't work. The Arduino is not connected. 
 
-Arduino haves 6 meanings: The fiscal one, the CPU of the Arduino, the soft wear, toolchain of the Arduino that will read and translate,   
+Arduino haves 6 meanings: The fiscal one, the CPU of the Arduino, the soft wear, toolchain of the Arduino that will read and translate   
 
 Compiling: They take the code and translate it to machine code to be able to read it. 
 
 Constants is a specific think  
 
-A variable can change  
+A variable can change 🤨 
 
 Interpreting: The code, it read line by line and resumed line by line 
 
@@ -188,7 +187,6 @@ int c = 50;
 void setup() {
  b = a;
  a = a + 200;
-
 }
 
 void loop() {
@@ -209,7 +207,6 @@ void setup() {
  b = a; // b = 150
  a = a + 200; // a = 150 + 200 = 350
  c = a + b; // c = 350 + 150 = 500
-
 }
 
 void loop() {
@@ -233,11 +230,9 @@ void setup() {
  c = b + 100
  a = a + 200; 
  c = a + b; 
-
 }
 
 void loop() {
-
 } 
 ```
 
