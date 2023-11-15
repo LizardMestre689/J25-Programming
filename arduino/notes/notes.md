@@ -17,8 +17,7 @@ We cannot define a duration inside the definition of another function
 
 Calling a function: 
 
-Name of the function (); 
-
+Name of the function ();
 
 Has to be the exact same name (case sensitive 
 
@@ -32,7 +31,8 @@ Delay (long/int)
 
 Pin Mode (Pin, mode) 
 
- 
+![MonkeyPhoneCallGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/05948ffe-d331-45a5-afc2-636852647c39)
+
 **Examples of defining functions:** 
 ---
 
@@ -58,7 +58,7 @@ Handles communication through serial
 
 Talks and listens to the PC through USB 
 
-How? 
+**How?** 
 
 Serial. begin (9600); 
 
@@ -79,8 +79,9 @@ In C++ and other highly types of programing languages, types are **mandatory** t
 
 Highly types Programing languages (C++,…) 
 
- 
 Common primitive variables:	----->	Objects (complex type of variables) 
+
+
 
 **🧱Building blocks🧱**
 ---
@@ -110,9 +111,8 @@ Declaration:
 Int 			dotDuration 		; 
 
 Type of variable		Name/Identified	only 
-
  
-Assignment: 
+**Assignment:** 
 
 dotDurarion          =           500 
 
@@ -126,7 +126,6 @@ dotDurarion          =           500
 a= a+1; = a++; 
 
 b=b-1; = b--;  
-
  
 **Naming connection:**
 ---
@@ -148,13 +147,13 @@ Variables that do not change the value
 
 Constants![WawaCatLoveIsAConstantGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/bd03c1da-dcd7-4284-af4e-e2d8d9c457fd) 
 
-SREAMING_SANKE_CASE 
+🐍SREAMING_SANKE_CASE🐍
 
 In C++ you can enforce it: 
 
 LUYI=4; ---> makes a compiling error 
 
-Kebab-case 
+🥙Kebab-case 🥙
 
 Serial: --> Its and object; -- First letter  
 
@@ -219,9 +218,9 @@ void loop() {
  digitalWrite(LED_BUILTING, LOW);
  delay(c); // c = 500
 }
-```
+
 // Third example
-```C++
+C++
 int a = 200;
 int b = 100;
 int c = 50;
@@ -242,13 +241,23 @@ void loop() {
 } 
 ```
 
-### Notes from the notebook
+### Notes from the notebook🗒️
 ---
 
 ![Pag 1](https://github.com/LizardMestre689/J25-Programming/assets/144990985/14df1ab5-e245-43f4-8c00-278684abc651)
+
+
 ![Pag 2](https://github.com/LizardMestre689/J25-Programming/assets/144990985/6e44771d-f1eb-4850-9628-d872dfd53550)
+
+
 ![Pag 3](https://github.com/LizardMestre689/J25-Programming/assets/144990985/cc485e01-8683-452d-9f7d-7d1e2215a237)
+
+
 ![Pag 4](https://github.com/LizardMestre689/J25-Programming/assets/144990985/507ed7e9-5e03-4cdb-bbca-d358b32f217e)
+
+
 ![Pag 5](https://github.com/LizardMestre689/J25-Programming/assets/144990985/a95acd6d-ff7e-42d2-ac63-4a3522f3e955)
+
+
 ![Pag 6](https://github.com/LizardMestre689/J25-Programming/assets/144990985/00db18c8-eba0-4e42-9007-6b3f67f32615)
 
