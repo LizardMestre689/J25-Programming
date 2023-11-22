@@ -1,1 +1,0 @@
-This code is exactly the same as the previous one, only we change the ingredients we use, which are bread, salt, garlic, tomato and oil and also the dish we create, which in this case is a delicious bread with Catalan tomato.
