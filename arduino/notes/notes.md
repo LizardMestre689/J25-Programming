@@ -1,5 +1,8 @@
 # 🗒️Notes from the class🗒️
+---
 
+# Notas de Primer Trimestre
+---
 **Function in programing**
 ---
 
@@ -256,3 +259,10 @@ void loop() {
 
 ![Pag 6](https://github.com/LizardMestre689/J25-Programming/assets/144990985/00db18c8-eba0-4e42-9007-6b3f67f32615)
 
+---
+
+# Notas de Segundo Trimestre
+---
+![IMG_3753](https://github.com/LizardMestre689/J25-Programming/assets/144990985/731baf49-e96f-4c82-8d78-36f5b647c1c2)
+
+![IMG_3752](https://github.com/LizardMestre689/J25-Programming/assets/144990985/3de2189c-2441-431b-a89e-ab66405f772a)
