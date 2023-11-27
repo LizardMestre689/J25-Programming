@@ -273,7 +273,7 @@ void loop() {
 
 
 # **Deveres de DNI**
-
+---
 **DNI**
 
 The National Identity Document serves as a citizen's identity number in many Spanish-speaking nations. The DNI's logic uses a particular validation algorithm and usually consists of a numerical character followed by a letter.
