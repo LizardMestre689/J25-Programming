@@ -1,0 +1,1 @@
+In this code, the condition (numeroProblema % 2 == 1 || numeroProblema % 6 == 0) checks if a number is either odd (numeroProblema % 2 == 1) or a multiple of 6 (numeroProblema % 6 == 0). If the condition is true, the number is printed to the serial monitor.
