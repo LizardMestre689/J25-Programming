@@ -272,42 +272,38 @@ void loop() {
 
 
 
-**Deveres de DNI**
+# **Deveres de DNI**
 
-DNI
+**DNI**
 
 The National Identity Document serves as a citizen's identity number in many Spanish-speaking nations. The DNI's logic uses a particular validation algorithm and usually consists of a numerical character followed by a letter.
 
-· Numeric Part:
+**Numeric Part:**
 
-o The numeric part of the DNI is typically 8 digits long.
+/The numeric part of the DNI is typically 8 digits long.
 
-o It uniquely identifies an individual.
+/It uniquely identifies an individual.
 
-· Letter:
+**Letter:**
 
-o The letter in the DNI is a checksum or verification digit.
+/The letter in the DNI is a checksum or verification digit.
 
-o It is calculated based on the numeric part to ensure the validity of the DNI.
+/It is calculated based on the numeric part to ensure the validity of the DNI.
 
-· Calculation of the Letter:
+**· Calculation of the Letter:**
 
-o Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
+/Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
+/The remainder corresponds to a specific letter in a predefined sequence.
+/The sequence is usually "TRWAGMYFPDXBNJZSQVHLCKE," where each letter corresponds to a specific value.
 
-o The remainder corresponds to a specific letter in a predefined sequence.
+**For example:**
 
-o The sequence is usually "TRWAGMYFPDXBNJZSQVHLCKE," where each letter corresponds to a specific value.
+0: T, 1: R ,2: W, 3: A, 4: G, 5: M, 6: Y, 7: F, 8: P, 9: D, 10: X, 11: B, 12: N, 13: J, 14: Z, 15: S, 16: Q, 17: V, 18: H, 19: L, 20: C, 21: K, 22: E.
 
-· For example:
+**Validation Process:**
 
-o 0: T, 1: R ,2: W, 3: A, 4: G, 5: M, 6: Y, 7: F, 8: P, 9: D, 10: X, 11: B, 12: N, 13: J, 14: Z, 15: S, 16: Q, 17: V, 18: H, 19: L, 20: C, 21: K, 22: E.
+To validate a DNI, you can follow these steps:
 
-· Validation Process:
-
-o To validate a DNI, you can follow these steps:
-
-§ Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
-
-§ Compare the calculated remainder with the corresponding letter in the predefined sequence.
-
-§ If they match, the DNI is considered valid
+Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
+Compare the calculated remainder with the corresponding letter in the predefined sequence.
+If they match, the DNI is considered valid
