@@ -1,1 +1,0 @@
-In this code, the while loop is used to extract each digit and add it to the sum. Then, the condition (sum == 10 || sum == 5) checks if the digit sum is either 10 or 5. If the condition is true, the number is printed to the serial monitor.
