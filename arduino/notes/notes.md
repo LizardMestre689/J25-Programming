@@ -266,3 +266,48 @@ void loop() {
 ![IMG_3753](https://github.com/LizardMestre689/J25-Programming/assets/144990985/731baf49-e96f-4c82-8d78-36f5b647c1c2)
 
 ![IMG_3752](https://github.com/LizardMestre689/J25-Programming/assets/144990985/3de2189c-2441-431b-a89e-ab66405f772a)
+
+
+
+
+
+
+**Deveres de DNI**
+
+DNI
+
+The National Identity Document serves as a citizen's identity number in many Spanish-speaking nations. The DNI's logic uses a particular validation algorithm and usually consists of a numerical character followed by a letter.
+
+· Numeric Part:
+
+o The numeric part of the DNI is typically 8 digits long.
+
+o It uniquely identifies an individual.
+
+· Letter:
+
+o The letter in the DNI is a checksum or verification digit.
+
+o It is calculated based on the numeric part to ensure the validity of the DNI.
+
+· Calculation of the Letter:
+
+o Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
+
+o The remainder corresponds to a specific letter in a predefined sequence.
+
+o The sequence is usually "TRWAGMYFPDXBNJZSQVHLCKE," where each letter corresponds to a specific value.
+
+· For example:
+
+o 0: T, 1: R ,2: W, 3: A, 4: G, 5: M, 6: Y, 7: F, 8: P, 9: D, 10: X, 11: B, 12: N, 13: J, 14: Z, 15: S, 16: Q, 17: V, 18: H, 19: L, 20: C, 21: K, 22: E.
+
+· Validation Process:
+
+o To validate a DNI, you can follow these steps:
+
+§ Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
+
+§ Compare the calculated remainder with the corresponding letter in the predefined sequence.
+
+§ If they match, the DNI is considered valid
