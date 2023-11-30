@@ -321,22 +321,22 @@ In C++, we can work with strings in a variety of ways. Reversing, concatenating,
 Some of the most common examples are:
 
 
-· Initialization:
+· **Initialization:**
 Strings can be initialized using a default constructor or by assigning a character array.
 
-· Accessing Characters:
+· **Accessing Characters:**
 Characters in a string can be accessed by index, and functions like front () and back () retrieve the first and last characters.
 
-· Concatenation:
+· **Concatenation:**
 Strings can be combined using the + operator or the append () function.
 
-· Comparison:
+· **Comparison:**
 Strings can be compared for equality or lexicographical order.
 
-· Length and Capacity:
+· **Length and Capacity:**
  Methods like size () and length () provide the number of characters, while capacity () gives the allocated memory.
 
-· Modification:
+· **Modification:**
 Strings can be modified by appending, erasing, or replacing substrings.
 
 Example from (geeksforgeeks):
@@ -400,8 +400,3 @@ Bibliography:
 GeeksforGeeks. (2023, 17 febrero). STD String class in C. https://www.geeksforgeeks.org/stdstring-class-in-c/
 Mahajan, U. (2022, 24 febrero). String in C++ - Scaler topics. Scaler Topics. https://www.scaler.com/topics/cpp/strings-in-cpp/
 C++ Strings. (s. f.). https://www.w3schools.com/cpp/cpp_strings.asp
-
-
-
-
-
