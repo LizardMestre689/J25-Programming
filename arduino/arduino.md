@@ -171,3 +171,119 @@ First it will tell us (This is a Special Message), then it will write line by li
 
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Special_Message_Mateo_Mestre/Special_Message_Mateo_Mestre.ino)
+
+
+## ProblemSolving1
+---
+
+When the Arduino is powered up or reset, it will enter the setup function, initialize serial communication, and then enter a loop that solves 30 problems by calling the resolverProblemaDibujo function for each problem, printing a corresponding message to the serial monitor. The loop function, although defined, is empty in this code.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino/ProblemSolver1)
+
+
+## ProblemSolving2 and Variation 1,2,3,4,5
+---
+
+Explanations ProblemSolver 2 and variations
+
+
+**ProblemSolver2**
+When the Arduino is powered up or reset, it will enter the setup function, initialize serial communication, print a message to the serial monitor, and then enter a loop that solves 15 odd-numbered problems by calling the resolverProblemaDibujo function for each odd-numbered problem, printing a corresponding message to the serial monitor. The loop function, although defined, is empty in this code.
+
+**ProblemSolver2_ejemplo_1**
+When the Arduino is powered up or reset, it will enter the setup function, initialize serial communication, print a message to the serial monitor, and then enter a loop that solves 30 problems in reverse order (from 30 to 1) by calling the resolverProblemaDibujo function for each problem, printing a corresponding message to the serial monitor. The loop function, although defined, is empty in this code.
+
+**ProblemSolver2_ejemplo_2**
+The program prints messages for solving problems from 1 to 30, excluding the problem with the number 17. The first loop uses a simple conditional check, while the second loop uses an if statement to skip the problem with the number 17.
+
+**ProblemSolver2_ejemplo_3**
+The program prints messages for solving problems from 1 to 30, excluding the problems with the numbers 17 and 23. It demonstrates two different ways of achieving the same result: one using a simple if statement inside a loop, a nd the other using a single if statement outside the loop.
+
+**ProblemSolver2_ejemplo_4**
+The program prints messages for solving problems from 1 to 30, but only for the problems that are odd and divisible by 3. The conditions inside the loop (n % 2 == 1 and n % 3 == 0) ensure that only numbers meeting these criteria trigger the call to the resolverProblemaDibujo function.
+
+**ProblemSolver2_ejemplo_5**
+the program prints messages for solving problems from 1 to 30, but only for the problems that are odd (n % 2 == 1) and divisible by 3 (n % 3 == 0). The conditions inside the loop ensure that only numbers meeting these criteria trigger the call to the resolverProblemaDibujo function, which then prints a message to the serial monitor.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino/ProblemSolver2)
+
+## ProblemSolving 3
+---
+
+# Explanations of ProblemSolver 3 and variations
+---
+
+
+## Explanation of ProblemSolver_3
+
+the program prints messages for solving problems from 1 to 100 but only for the problems that are divisible by both 4 and 6. 
+The conditions inside the loop (n % 4 == 0 && n % 6 == 0) ensure that only numbers meeting these criteria trigger the call to the 
+resolverProblemaDibujo function, which then prints a message to the serial monitor.
+
+
+## Explanation of ProblemSolver_3_ejemplo_1
+
+The program prints messages for solving problems from 1 to 100 but only for the problems that are multiples of 7 and not multiples of 14. The conditions inside the loop (**n % 7 == 0 && 
+ n % 14 != 0**) ensure that only numbers meeting these criteria trigger the call to the **resolverProblemaDibujo** function, which then prints a message to the serial monitor.
+
+
+## Explanation of ProblemSolver_3_ejemplo_2
+
+The program prints messages for solving problems from 1 to 100 but only for the problems that are odd, divisible by 3, and prime. The conditions inside the loop and the helper function 
+ **esPrimo** ensure that only numbers meeting these criteria trigger the call to the **resolverProblemaDibujo** function, which then prints a message to the serial monitor.
+
+ 
+## Explanation of ProblemSolver_3_ejemplo_3
+
+The program prints messages for solving problems from 1 to 30 but only for the problems that are multiples of 7. The condition inside the loop (**n % 7 == 0**) ensures that only numbers 
+meeting this criteria trigger the call to the **resolverProblemaDibujo** function, which then prints a message to the serial monitor.
+
+
+## Explanation of ProblemSolver_3_ejemplo_4
+
+The program prints messages for solving problems from 1 to 30 but only for the problems where the last digit is either 3 or 6. The condition inside the loop (**n % 10 == 3 || n % 10 == 
+6**) ensures that only numbers meeting this criteria trigger the call to the **resolverProblemaDibujo** function, which then prints a message to the serial monitor.
+
+
+## Explanation of ProblemSolver_3_ejemplo_5
+
+the program prints messages for solving problems from 1 to 30 but only for the problems that are odd, divisible by 3, and have a sum of digits that is even. The conditions inside the 
+loop and the helper function **sumOfDigitsIsEven** ensure that only numbers meeting these criteria trigger the call to the **resolverProblemaDibujo** function, which then prints a 
+message to the serial monitor.
+
+
+## Explanation of ProblemSolver3_ejemplo_6_ExtraPoints
+the program prints messages for solving problems from 1 to 30 but only for the problems that are odd, divisible by 3, and have a sum of digits that is even. The conditions inside the 
+loop and the helper function **sumOfDigitsIsEven** ensure that only numbers meeting these criteria trigger the call to the **resolverProblemaDibujo** function, which then prints a message to 
+the serial monitor.
+
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino/ProblemSolver3)
+
+
+## ProblemSolving 4
+---
+
+**Problem Solving 4.a**
+
+This code will print the numbers from 1 to 100 that have at least a 3 in their digits to the serial monitor.
+
+**Problem Solving 4.b**
+
+In this code, the condition (numeroProblema % 2 == 1 || numeroProblema % 6 == 0) checks if a number is either odd (numeroProblema % 2 == 1) or a multiple of 6 (numeroProblema % 6 == 0). If the condition is true, the number is printed to the serial monitor.
+
+**Problem Solving 4.c**
+
+In this code, the while loop is used to extract each digit and add it to the sum. Then, the condition (sum == 10 || sum == 5) checks if the digit sum is either 10 or 5. If the condition is true, the number is printed to the serial monitor.
+
+**Problem Solving 4.extra**
+
+In this code, the (isPrime) function checks if a given number is prime. The main loop then uses this function to determine if each number from 1 to 100 is prime, and if so, it prints the number to the serial monitor.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino/ProblemSolver4)
+
+## Array 0
+---
+
+
+---
