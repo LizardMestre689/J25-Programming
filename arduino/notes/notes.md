@@ -307,3 +307,101 @@ To validate a DNI, you can follow these steps:
 Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
 Compare the calculated remainder with the corresponding letter in the predefined sequence.
 If they match, the DNI is considered valid
+
+# **Array String methods**
+---
+**Array**
+
+Strings
+
+A string is a class that defines objects that are represented as a stream of characters. Most of the programs require to work with texts employ strings in the case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is reallocated, no memory is wasted.
+
+In C++, we can work with strings in a variety of ways. Reversing, concatenating, or sending anything as an argument to a function are a few examples.
+
+Some of the most common examples are:
+
+
+· Initialization:
+Strings can be initialized using a default constructor or by assigning a character array.
+
+· Accessing Characters:
+Characters in a string can be accessed by index, and functions like front () and back () retrieve the first and last characters.
+
+· Concatenation:
+Strings can be combined using the + operator or the append () function.
+
+· Comparison:
+Strings can be compared for equality or lexicographical order.
+
+· Length and Capacity:
+ Methods like size () and length () provide the number of characters, while capacity () gives the allocated memory.
+
+· Modification:
+Strings can be modified by appending, erasing, or replacing substrings.
+
+Example from (geeksforgeeks):
+```
+// C++ Program to demonstrate the working of
+
+// getline(), push_back() and pop_back()
+
+#include <iostream>
+
+#include <string> // for string class
+
+using namespace std;
+
+// Driver Code
+
+int main()
+
+{
+
+// Declaring string
+
+string str;
+
+// Taking string input using getline()
+
+getline(cin, str);
+
+// Displaying string
+
+cout << "The initial string is : ";
+
+cout << str << endl;
+
+// Inserting a character
+
+str.push_back('s');
+
+// Displaying string
+
+cout << "The string after push_back operation is : ";
+
+cout << str << endl;
+
+// Deleting a character
+
+str.pop_back();
+
+// Displaying string
+
+cout << "The string after pop_back operation is : ";
+
+cout << str << endl;
+
+return 0;
+
+}
+```
+Bibliography:
+
+GeeksforGeeks. (2023, 17 febrero). STD String class in C. https://www.geeksforgeeks.org/stdstring-class-in-c/
+Mahajan, U. (2022, 24 febrero). String in C++ - Scaler topics. Scaler Topics. https://www.scaler.com/topics/cpp/strings-in-cpp/
+C++ Strings. (s. f.). https://www.w3schools.com/cpp/cpp_strings.asp
+
+
+
+
+
