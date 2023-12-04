@@ -7,7 +7,7 @@ Serial.begin(9600);
      min = grades[i];
     }
   }
- //Writh the min number with a delay
+ //writes the min number with a delay
     Serial.println(min);
     delay(500);
     }
