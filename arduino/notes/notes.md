@@ -400,3 +400,26 @@ Bibliography:
 GeeksforGeeks. (2023, 17 febrero). STD String class in C. https://www.geeksforgeeks.org/stdstring-class-in-c/
 Mahajan, U. (2022, 24 febrero). String in C++ - Scaler topics. Scaler Topics. https://www.scaler.com/topics/cpp/strings-in-cpp/
 C++ Strings. (s. f.). https://www.w3schools.com/cpp/cpp_strings.asp
+
+---
+## Array Min Nunmber
+---
+```
+void setup(){
+Serial.begin(9600);
+    int grades [] = {9,5,8,3,2,9,3,1,7};
+  int min = grades[0];
+  for (int i = 0; i < 9; i++) {
+    if (grades[i] < min) {
+     min = grades[i];
+    }
+  }
+ //writes the min number with a delay
+    Serial.println(min);
+    delay(500);
+    }
+
+
+void loop(){
+}
+```
