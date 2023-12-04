@@ -294,3 +294,9 @@ In this final part of the task I wasn't able to code it, the one of changing the
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino/Array%200)
 
 ---
+
+## Array Min Number
+
+This code is meant to find the min number in side the (int gardes []), in a very simplify way.
+
+---
