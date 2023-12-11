@@ -304,11 +304,15 @@ This code is meant to find the min number in side the (int gardes []), in a very
 ## Sonar 1
 ---
 
+This code is meant to count the amount of times it haves increased.
+
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_1/Sonar_1.ino)
 
 
 ## Sonar 2
 ---
+
+This code is meant to count how many times did the output increased, decreased or stay the same.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_2/Sonar_2.ino)
 
@@ -316,10 +320,14 @@ This code is meant to find the min number in side the (int gardes []), in a very
 ## Sonar 3
 ---
 
+This code is meant to count the count the velociti of the output and se how many secons did increased or decreased.
+
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_3/Sonar_3.ino)
 
 
 ## Sonar 4
 ---
+
+This code is meant to countIt will find out the minimum, maximum and average of the array of speeds.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_4/Sonar_4.ino)
