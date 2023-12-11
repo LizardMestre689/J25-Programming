@@ -300,3 +300,26 @@ In this final part of the task I wasn't able to code it, the one of changing the
 This code is meant to find the min number in side the (int gardes []), in a very simplify way.
 
 ---
+
+## Sonar 1
+---
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_1/Sonar_1.ino)
+
+
+## Sonar 2
+---
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_2/Sonar_2.ino)
+
+
+## Sonar 3
+---
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_3/Sonar_3.ino)
+
+
+## Sonar 4
+---
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_4/Sonar_4.ino)
