@@ -331,3 +331,9 @@ This code is meant to count the count the velociti of the output and se how many
 This code is meant to countIt will find out the minimum, maximum and average of the array of speeds.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Sonar_4/Sonar_4.ino)
+---
+
+## Music Song 
+---
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/Music%20Song/Song)
