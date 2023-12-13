@@ -105,7 +105,10 @@ int buzzer = 11;
 // so -4 means a dotted quarter note, that is, a quarter plus an eighteenth!!
 int melody[] = {
 
-
+NOTE_F4,4, NOTE_G4,4, NOTE_AS4,4, NOTE_GS4,4 
+NOTE_G4, 2, NOTE_F4,4, NOTE_G4,4, NOTE_F4, 2,
+NOTE _F4,4, NOTE_ DS4,4, NOTE_C4,4, NOTE_C4,4,
+NOTE_DS4,2, NOTE_F4,4, NOTE_ DS4, 4, NOTE D4, 2,
 
 
 };
