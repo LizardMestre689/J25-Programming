@@ -1,0 +1,44 @@
+1. 
+
+void startWithQuixote(int_string);
+
+
+2.
+
+void inveseNumber(int number);
+
+3.
+
+bool itlsAGoodDay(){
+ if (is a good day ())
+  return true;
+}
+return false;
+
+4.
+
+double volumeCylinder(double radius, double height) {
+
+
+
+5.
+
+bool isThereAnyBeetlejuice()
+
+6.
+
+void notOver5(int num){
+if (num >= 5) {
+return 5;
+}
+else { 
+return num;
+  }
+}
+
+7.
+
+void singLullaby(){
+
+}
+
