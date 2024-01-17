@@ -1,8 +1,8 @@
 1. 
 
-void startWithQuixote(int_string);
-
-
+void startWithQuixote(int_string){
+string (En algun lugar de la Mancha);
+}
 2.
 
 void inveseNumber(int number);
@@ -19,11 +19,9 @@ return false;
 
 double volumeCylinder(double radius, double height) {
 
-
-
 5.
 
-bool isThereAnyBeetlejuice()
+bool isThereAnyBeetlejuice();
 
 6.
 
