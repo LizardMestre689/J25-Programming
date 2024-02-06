@@ -15,7 +15,7 @@ Repository for studentas of the course of Programing in 1st Bachillerato
 ---
 [Arduino Codes](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino)
 
-[Java Codes]()
+[Java Codes](https://github.com/LizardMestre689/J25-Programming/tree/main/java)
 
 ---
 
