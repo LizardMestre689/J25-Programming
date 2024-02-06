@@ -31,4 +31,6 @@ Repository for studentas of the course of Programing in 1st Bachillerato
 
 ## Notes from the class
 ---
-[Notes](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/notes/notes.md)
+[Notes from C++](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/notes/notes.md)
+
+[Notes from Java]()
