@@ -13,7 +13,9 @@ Repository for studentas of the course of Programing in 1st Bachillerato
 
 ## Code
 ---
-[Arduino.md](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/arduino.md)
+[Arduino Code Explanation](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/arduino.md)
+
+[Java Code Explanation](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Code%20Java.md)
 
 ## Markdown Cheat Sheat
 ---
