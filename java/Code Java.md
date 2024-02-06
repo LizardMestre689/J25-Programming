@@ -3,7 +3,7 @@
 
 ## Area Triangle
 
-This code read the variables and calculate the area of a triangle
+This code read the variables and calculate the area of a triangle. Using java language programing.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/java/Triangle?classId=f76ec08a-f0fa-4d99-b5c0-0c3fb8f92d29&assignmentId=4b1f75a4-58b0-461f-aee5-2b2143d2ac10&submissionId=2c9e17d6-be05-8197-ce47-5fdef4c01a12)
 
@@ -29,4 +29,4 @@ Exercice 3
 
 In this code we had to write a program called SumProduct3Numbers, which introduces one more int variable called number3, and assign it an integer value of 77. Compute and print the sum and product of all the three numbers.
 
-[Link to the code]()
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/java/Basic%20Arthmetic%20Problems)
