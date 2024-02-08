@@ -270,7 +270,7 @@ void loop() {
 Extract a method: Its extracting from a place code that is to complex and we transform it into a separate function in order to make it less complex.
 - Pseudorandom: A pseudorandom number is a number generated in a process that appears to produce random numbers, but does not actually do so, they are generated sequentially with a deterministic algorithm
 - Iteration: repeat things, but always on different ways
-
+---
 
 
 ![IMG_3753](https://github.com/LizardMestre689/J25-Programming/assets/144990985/731baf49-e96f-4c82-8d78-36f5b647c1c2)
@@ -278,6 +278,7 @@ Extract a method: Its extracting from a place code that is to complex and we tra
 ![IMG_3752](https://github.com/LizardMestre689/J25-Programming/assets/144990985/3de2189c-2441-431b-a89e-ab66405f772a)
 
 
+---
 
 
 # **Deveres de DNI**
@@ -318,6 +319,9 @@ If they match, the DNI is considered valid
 
 # **Array String methods**
 ---
+
+
+
 **Array 🪢Strings🪢**
 
 A string is a class that defines objects that are represented as a stream of characters. Most of the programs require to work with texts employ strings in the case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is reallocated, no memory is wasted.
@@ -347,7 +351,7 @@ A string is a class that defines objects that are represented as a stream of cha
 
 ---
 
-Important Constructors
+## Important Constructors
 
 ---
 
@@ -371,7 +375,7 @@ Important Constructors
 
 ---
 
-Example from (geeksforgeeks):
+- Example from (geeksforgeeks):
 
 ``` C++
 // C++ Program to demonstrate the working of
