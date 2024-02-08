@@ -485,11 +485,11 @@ void loop(){
 
 Tone is a function used in C++ to make a sound on a specific pin. To call this function we need to do:
 
-´´´ C++
+``` C++
 tone(pinNumber, frecuency, duration);
 delay(duration+25);
 noTone(pinNumber);
-´´´
+```
 
 ### Tips for making the song
 ---
