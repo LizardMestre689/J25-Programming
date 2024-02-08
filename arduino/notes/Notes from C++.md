@@ -462,6 +462,6 @@ noTone(pinNumber);
 ---
 "Int" is a vaariable that ocupies space in the memory, so when we have to define a lot of variables like in the songs, we use something that is called "#define". This "define" is not a variable it's an instuction for the compilator so it doesn't occupy any space in the memory. 
 
-![Uploading SingingLittlebitofabGIF.gif…]()
+![f](Uploading SingingLittlebitofabGIF.gif…)
 
 
