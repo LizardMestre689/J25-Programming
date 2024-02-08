@@ -373,6 +373,15 @@ A string is a class that defines objects that are represented as a stream of cha
 - Memory management: Memory for arrays is allocated statically or dynamically depending on how they are declared.
 - Iteration: Loops are commonly used to iterate through array elements for processing or manipulation.
 
+![EsoEsMuyImportanteHoraDeAventuraLaGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/3833413b-be62-460c-a219-ceaea8b7a054)
+
+---
+
+## Parallel Arrays
+
+notes_tones {LA, SI, DO, D, MI,... } the value above is “joined” with the value below
+Notes_durations { White, quarter note, quarter note,...}
+
 ---
 
 - Example from (geeksforgeeks):
@@ -462,6 +471,7 @@ noTone(pinNumber);
 ---
 "Int" is a vaariable that ocupies space in the memory, so when we have to define a lot of variables like in the songs, we use something that is called "#define". This "define" is not a variable it's an instuction for the compilator so it doesn't occupy any space in the memory. 
 
-![f](Uploading SingingLittlebitofabGIF.gif…)
+![SingingLittlebitofabGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/f60dd14a-6f49-423f-a8f0-3eb7613c4a08)
+
 
 
