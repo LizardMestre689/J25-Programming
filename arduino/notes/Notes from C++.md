@@ -312,9 +312,10 @@ If they match, the DNI is considered valid
 ---
 **Array**
 
-Strings
+🪢Strings🪢
 
 A string is a class that defines objects that are represented as a stream of characters. Most of the programs require to work with texts employ strings in the case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is reallocated, no memory is wasted.
+
 ---
 In C++, we can work with strings in a variety of ways. Reversing, concatenating, or sending anything as an argument to a function are a few examples.
 
@@ -341,6 +342,7 @@ Strings can be compared for equality or lexicographical order.
 Strings can be modified by appending, erasing, or replacing substrings.
 
 Example from (geeksforgeeks):
+
 ``` C++
 // C++ Program to demonstrate the working of
 // getline(), push_back() and pop_back()
@@ -385,9 +387,11 @@ Mahajan, U. (2022, 24 febrero). String in C++ - Scaler topics. Scaler Topics. ht
 C++ Strings. (s. f.). https://www.w3schools.com/cpp/cpp_strings.asp
 
 ---
+
 ## Array Min Nunmber
 ---
-```
+
+``` C++
 void setup(){
 Serial.begin(9600);
     int grades [] = {9,5,8,3,2,9,3,1,7};
