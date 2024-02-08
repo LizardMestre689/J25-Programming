@@ -310,9 +310,7 @@ If they match, the DNI is considered valid
 
 # **Array String methods**
 ---
-**Array**
-
-🪢Strings🪢
+**Array 🪢Strings🪢**
 
 A string is a class that defines objects that are represented as a stream of characters. Most of the programs require to work with texts employ strings in the case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is reallocated, no memory is wasted.
 
@@ -323,23 +321,30 @@ Some of the most common examples are:
 
 --- 
 
-· **Initialization:**
-Strings can be initialized using a default constructor or by assigning a character array.
+## Important functions supported by String class
 
-· **Accessing Characters:**
-Characters in a string can be accessed by index, and functions like front () and back () retrieve the first and last characters.
+- append(): This function appends a part of a string to another string.
+- assign():This function assigns a partial string.
+- at(): This function obtains the character stored at a specified location.
+- begin(): This function returns a reference to the start of the string.
+- capacity(): This function gives the total element that can be stored.
+- compare(): This function compares a string against the invoking string.
+- empty(): This function returns true if the string is empty.
+- end(): This function returns a reference to the end of the string.
+- erase(): This function removes characters as specified.
+- find(): This function searches for the occurrence of a specified substring.
+- length(): It gives the size of a string or the number of elements of a string.
+- swap(): This function swaps the given string with the invoking one.
 
-· **Concatenation:**
-Strings can be combined using the + operator or the append () function.
 
-· **Comparison:**
-Strings can be compared for equality or lexicographical order.
+---
 
-· **Length and Capacity:**
- Methods like size () and length () provide the number of characters, while capacity () gives the allocated memory.
+Important Constructors
+- String(): This constructor is used for creating an empty string.
+- String(const char *str): This constructor is used for creating string objects from a null-terminated string.
+- String(const string *str): This constructor is used for creating a string object from another string object.
 
-· **Modification:**
-Strings can be modified by appending, erasing, or replacing substrings.
+---
 
 Example from (geeksforgeeks):
 
