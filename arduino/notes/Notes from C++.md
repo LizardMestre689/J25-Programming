@@ -14,25 +14,23 @@ Functions are subsets of code defined to be executed when they are called, they 
 
 Definition: 
 
-Return type (void none)---->Void name of the function (parameter inside) {Cod Code} 
-
-We cannot define a duration inside the definition of another function 
+- Return type (void none)---->Void name of the function (parameter inside) {Cod Code} 
+- We cannot define a duration inside the definition of another function 
 
 Calling a function: 
 
-Name of the function ();
-
-Has to be the exact same name (case sensitive) 
+- Name of the function ();
+- Has to be the exact same name (case sensitive) 
 
 
 **Examples of calling function:** (All are defined in a library) arduino.cpp 
 ---
 
-Digital write (int pin, 1 or 0) 
+- Digital write (int pin, 1 or 0) 
 
-Delay (long/int) 
+- Delay (long/int) 
 
-Pin Mode (Pin, mode) 
+- Pin Mode (Pin, mode) 
 
 ![MonkeyPhoneCallGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/05948ffe-d331-45a5-afc2-636852647c39)
 
@@ -63,9 +61,9 @@ Talks and listens to the PC through USB
 
 **How?** 
 
-Serial. begin (9600); 
+- Serial. begin (9600); 
 
-Serial. println (“resp”) 
+- Serial. println (“resp”) 
 
  
 
@@ -117,18 +115,17 @@ Type of variable		Name/Identified	only
  
 **Assignment:** 
 
-dotDurarion          =           500 
+dotDurarion  =    500 
 
-  Name		Equal       valve 
+  Name		  Equal   valve 
 
  
 **Common assignment: C++** 
 ---
 
+- a= a+1; = a++; 
 
-a= a+1; = a++; 
-
-b=b-1; = b--;  
+- b=b-1; = b--;  
  
 **Naming connection:**
 ---
@@ -155,7 +152,7 @@ In C++ you can enforce it:
 
 LUYI=4; ---> makes a compiling error❌ 
 
-🥙Kebab-case 🥙
+- 🥙Kebab-case 🥙
 
 Serial: --> Its and object; -- First letter  
 
@@ -263,11 +260,22 @@ void loop() {
 
 # Notas de Segundo Trimestre
 ---
+
+## ☝️Vocabulary☝️
+
+- Pseudocode: Is a description of the steps in an algorithm using a mix of conventions of programming languages with informal, usually self-explanatory, notation of actions and conditions.
+- Parameter: Is a special kind of variable used in a function to refer to one of the pieces of data provided as input to the function.
+- Array: Is a collection of items, or data, stored in contiguous memory locations, also known as database systems
+- Implementation: is a realization of a technical specification or algorithm as a program, software component, or other computer system through computer programming and deployment.
+Extract a method: Its extracting from a place code that is to complex and we transform it into a separate function in order to make it less complex.
+- Pseudorandom: A pseudorandom number is a number generated in a process that appears to produce random numbers, but does not actually do so, they are generated sequentially with a deterministic algorithm
+- Iteration: repeat things, but always on different ways
+
+
+
 ![IMG_3753](https://github.com/LizardMestre689/J25-Programming/assets/144990985/731baf49-e96f-4c82-8d78-36f5b647c1c2)
 
 ![IMG_3752](https://github.com/LizardMestre689/J25-Programming/assets/144990985/3de2189c-2441-431b-a89e-ab66405f772a)
-
-
 
 
 
@@ -280,21 +288,21 @@ The National Identity Document serves as a citizen's identity number in many Spa
 
 **Numeric Part:**
 
-/The numeric part of the DNI is typically 8 digits long.
+- The numeric part of the DNI is typically 8 digits long.
 
-/It uniquely identifies an individual.
+- It uniquely identifies an individual.
 
 **Letter:**
 
-/The letter in the DNI is a checksum or verification digit.
+- The letter in the DNI is a checksum or verification digit.
 
-/It is calculated based on the numeric part to ensure the validity of the DNI.
+- It is calculated based on the numeric part to ensure the validity of the DNI.
 
 **· Calculation of the Letter:**
 
-/Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
-/The remainder corresponds to a specific letter in a predefined sequence.
-/The sequence is usually "TRWAGMYFPDXBNJZSQVHLCKE," where each letter corresponds to a specific value.
+- Take the numeric part of the DNI and calculate the remainder when dividing it by 23.
+- The remainder corresponds to a specific letter in a predefined sequence.
+- The sequence is usually "TRWAGMYFPDXBNJZSQVHLCKE," where each letter corresponds to a specific value.
 
 **For example:**
 
@@ -315,11 +323,11 @@ If they match, the DNI is considered valid
 A string is a class that defines objects that are represented as a stream of characters. Most of the programs require to work with texts employ strings in the case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is reallocated, no memory is wasted.
 
 ---
-In C++, we can work with strings in a variety of ways. Reversing, concatenating, or sending anything as an argument to a function are a few examples.
-
-Some of the most common examples are:
+- In C++, we can work with strings in a variety of ways. Reversing, concatenating, or sending anything as an argument to a function are a few examples.
 
 --- 
+
+- Some of the most common examples are:
 
 ## Important functions supported by String class
 
@@ -340,9 +348,26 @@ Some of the most common examples are:
 ---
 
 Important Constructors
+
+---
+
 - String(): This constructor is used for creating an empty string.
 - String(const char *str): This constructor is used for creating string objects from a null-terminated string.
 - String(const string *str): This constructor is used for creating a string object from another string object.
+
+---
+
+##❗Important Concepts❗
+-- 
+
+- Collection of elements: Arrays in C++ are collections of elements of the same data type stored in contiguous memory locations.
+- Index and value: An element of an array will always have an index between 0 and n-1 being n: the length of the array.
+- Lenght: Size of an array; number of elements.
+- Fixed size: Once declared, the size of an array cannot be changed during runtime.
+- Indexing: Elements in an array are accessed using an index, starting from 0 for the first element.
+- Declaration: Arrays are declared using square brackets [] after the data type, specifying the size of the array.
+- Memory management: Memory for arrays is allocated statically or dynamically depending on how they are declared.
+- Iteration: Loops are commonly used to iterate through array elements for processing or manipulation.
 
 ---
 
@@ -415,3 +440,23 @@ Serial.begin(9600);
 void loop(){
 }
 ```
+
+
+## 🎤🎤Tone🎤🎤
+---
+
+Tone is a function used in C++ to make a sound on a specific pin. To call this function we need to do:
+
+´´´ C++
+tone(pinNumber, frecuency, duration);
+delay(duration+25);
+noTone(pinNumber);
+´´´
+
+### Tips for making the song
+---
+"Int" is a vaariable that ocupies space in the memory, so when we have to define a lot of variables like in the songs, we use something that is called "#define". This "define" is not a variable it's an instuction for the compilator so it doesn't occupy any space in the memory. 
+
+![Uploading SingingLittlebitofabGIF.gif…]()
+
+
