@@ -445,8 +445,9 @@ void loop(){
 }
 ```
 
+--- 
 
-## 🎤🎤Tone🎤🎤
+## 🎵🎤Tone🎤🎵
 ---
 
 Tone is a function used in C++ to make a sound on a specific pin. To call this function we need to do:
