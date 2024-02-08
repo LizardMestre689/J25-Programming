@@ -340,7 +340,7 @@ Strings can be compared for equality or lexicographical order.
 Strings can be modified by appending, erasing, or replacing substrings.
 
 Example from (geeksforgeeks):
-```
+``` C++
 // C++ Program to demonstrate the working of
 
 // getline(), push_back() and pop_back()
