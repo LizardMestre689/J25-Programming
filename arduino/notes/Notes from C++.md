@@ -315,11 +315,12 @@ If they match, the DNI is considered valid
 Strings
 
 A string is a class that defines objects that are represented as a stream of characters. Most of the programs require to work with texts employ strings in the case of strings, memory is allocated dynamically. More memory can be allocated at run time on demand. As no memory is reallocated, no memory is wasted.
-
+---
 In C++, we can work with strings in a variety of ways. Reversing, concatenating, or sending anything as an argument to a function are a few examples.
 
 Some of the most common examples are:
 
+--- 
 
 · **Initialization:**
 Strings can be initialized using a default constructor or by assigning a character array.
@@ -342,57 +343,39 @@ Strings can be modified by appending, erasing, or replacing substrings.
 Example from (geeksforgeeks):
 ``` C++
 // C++ Program to demonstrate the working of
-
 // getline(), push_back() and pop_back()
 
 #include <iostream>
-
 #include <string> // for string class
-
 using namespace std;
 
 // Driver Code
-
-int main()
-
-{
+int main(){
 
 // Declaring string
-
 string str;
 
 // Taking string input using getline()
-
 getline(cin, str);
 
 // Displaying string
-
 cout << "The initial string is : ";
-
 cout << str << endl;
 
 // Inserting a character
-
 str.push_back('s');
 
 // Displaying string
-
 cout << "The string after push_back operation is : ";
-
 cout << str << endl;
 
 // Deleting a character
-
 str.pop_back();
 
 // Displaying string
-
 cout << "The string after pop_back operation is : ";
-
 cout << str << endl;
-
 return 0;
-
 }
 ```
 Bibliography:
