@@ -367,3 +367,37 @@ But at the end I could create all the code, with the exeption of the part of sto
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/arduino/wrap_project?classId=f76ec08a-f0fa-4d99-b5c0-0c3fb8f92d29&assignmentId=bbd6f879-1f85-4c95-8d5a-9f9fd367fc4f&submissionId=5026132e-fe1e-7441-5138-ead6decdb268)
 
 ---
+
+---
+
+## Principal code
+
+---
+
+This part integrates all the main commands and is the most important part of the program. Depending on the commands you enter in the serial monitor, he will respond differently, like play: to play music.
+
+[Link to code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/wrap_project/wrap_project.ino)
+
+**Morse**
+---
+
+This is the part that integrates the Morse code. Depending on the letters you type, it will be converted into a different Morse code.
+
+[Link to code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/wrap_project/morse.h)
+
+
+**Song**
+---
+
+This is the part that integrates the score as well as the play, if you give it a play command it will start playing, if you give the stop command it will stop playing (no one has done it so far)
+
+[Link to code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/wrap_project/music.h)
+
+
+**Cook**
+---
+
+This is the section for recipes, if you give the command "Cook" it gives you the dish.
+
+[Link to code](https://github.com/LizardMestre689/J25-Programming/blob/main/arduino/wrap_project/Cooking_Recepy.h)
+
