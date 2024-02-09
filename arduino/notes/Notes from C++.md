@@ -385,7 +385,7 @@ A string is a class that defines objects that are represented as a stream of cha
 
 ---
 
-##❗Important Concepts❗
+❗Important Concepts❗
 -- 
 
 - Collection of elements: Arrays in C++ are collections of elements of the same data type stored in contiguous memory locations.
@@ -407,6 +407,58 @@ notes_tones {LA, SI, DO, D, MI,... } the value above is “joined” with the va
 Notes_durations { White, quarter note, quarter note,...}
 
 ---
+
+## Arrays using Int
+---
+
+**Arrays with int slow form**
+
+```C++
+int[] grades=(5, 7, 9, 7, 6, 8}
+int sum = 0;
+sum = sum + grades [0];
+sum = sum + grades [1];
+sum = sum + grades [2];
+sum = sum + grades [3];
+sum = sum + grades [4];
+sum = sum + grades [5] ;
+int average = sum/6;
+Serial.println(average);
+```
+
+**Arrays with int faster version using a loop**
+
+```C++
+int [] grades={5, 7, 9, 7, 6, 8}
+int sum = 0;
+  for (int n=0-;n<6;n++ ) {
+    sum = sum + grades [n];
+  }
+int average = sum/6;
+Serial.println(average);
+```
+---
+## Arrays using Int for real life examples
+---
+
+**Best grade**
+
+```C++
+void setup(){
+Serial.begin(9600); 
+int[]grades=(5, 7, 9, 7, 6, 8)
+int max = grades [0];
+   for (int i=1; i<6;i++) {
+      if (grades [i]>max) {
+      max = grades [i];
+      }
+  }
+Serial.println(max);
+}
+
+```
+---
+
 
 - Example from (geeksforgeeks):
 
