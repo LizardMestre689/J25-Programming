@@ -15,7 +15,37 @@
 - **High-level and low level abstraction**: High level is a very general level of abstraction and low level is a very specific abstraction.
 - **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
 
-  
+---
+### Extended information in Spanish
+
+**Características GUI**
+ - Las GUI son interfaces que utilizan elementos visuales para ayudar a usuario a navegar o interactuar por el sistema, como, por ejemplo: Ventanas, botones, menús, iconos y controles deslizantes.
+
+- Es bastante intuitiva de usar, ya que, al tener imágenes u botones, el funcionamiento del programa es más fácil de entender.
+
+- Hay diferentes plataformas que usan GUI, entre ellas Windows, macOS, con sus aplicaciones y Word, Inkscape, con sus herramientas y funciones.
+
+**Características CLI**
+
+- Y el CLI es algo más complejo de utilizar, CLI permite al usuario interactuar con el sistema a través de comandos de texto ingresados en una línea de comando, por ejemplo, la ventana de comandos de Windows (cmd) y la línea de comandos de Git.
+
+- Este tipo de interacción es preferida por usuarios avanzados, ya que la gran mayoría no sabe cómo funcionan. Ya que, al no tener una interfaz visual, no es tan fácil o intuitiva de usar.
+
+---
+
+**Alto Nivel** 
+
+- La abstracción en alto nivel es una capacidad para abstraer información, de manera que se aleja de los detalles técnicos o específicos y se enfoca en temas más generales y abstractos.
+
+- Un ejemplo de la abstracción en alto nivel son las bibliotecas, esta herramienta proporciona conjuntos de funciones, que permiten a los desarrolladores a realizar operaciones complejas con unas pocas líneas de código.
+
+**Bajo Nivel**
+
+- La abstracción a bajo nivel es totalmente lo opuesto, este se centra en abstraer información más específica o concreta.
+
+- Un ejemplo de abstracción en bajo nivel en el hardware sería el acceso directo a la memoria, instrucciones de ensamblador, manejo de registros de CPU, etc.
+
+---
 
 ## Java Program Template
 ```java
