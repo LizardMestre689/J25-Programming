@@ -1,4 +1,4 @@
-# 🗒️Notes from the class🗒️
+![BassMetalGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/be45e5c9-acf7-4206-9d1c-d7cc3da6e4ea)# 🗒️Notes from the class🗒️
   - ## **Second Trimester**
   
 ---
@@ -43,11 +43,18 @@
 
 - Un ejemplo de la abstracción en alto nivel son las bibliotecas, esta herramienta proporciona conjuntos de funciones, que permiten a los desarrolladores a realizar operaciones complejas con unas pocas líneas de código.
 
+  ![PatrickStarHeelsGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/67af9d8d-d564-424b-8a9e-f6d2223057d1)
+
 **Bajo Nivel**
 
 - La abstracción a bajo nivel es totalmente lo opuesto, este se centra en abstraer información más específica o concreta.
 
 - Un ejemplo de abstracción en bajo nivel en el hardware sería el acceso directo a la memoria, instrucciones de ensamblador, manejo de registros de CPU, etc.
+
+![PatPatGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/0f18e074-a07d-487a-a839-04f4bbc0701b)
+
+
+
 
 ---
 
