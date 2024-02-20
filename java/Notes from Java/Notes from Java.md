@@ -1,6 +1,5 @@
 # 🗒️Notes from the class🗒️
-
-  - **Second Trimester**
+  - ## **Second Trimester**
   
 ---
 
