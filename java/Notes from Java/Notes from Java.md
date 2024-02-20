@@ -2,7 +2,9 @@
   - ## **Second Trimester**
   
 ---
+## ☝ Vocabulary and important concepts ☝
 
+---
 - **Class**: Define tipo de objetos
 - **Static**: Siempre esta en memoria  
 - **Public**: Es quien puede acceder (public es todo el mundo), private(solo un numero determinado o alguien en espefico puede acceder) 
@@ -17,6 +19,8 @@
 
 ---
 ### Extended information in Spanish
+
+---
 
 **Características GUI**
  - Las GUI son interfaces que utilizan elementos visuales para ayudar a usuario a navegar o interactuar por el sistema, como, por ejemplo: Ventanas, botones, menús, iconos y controles deslizantes.
