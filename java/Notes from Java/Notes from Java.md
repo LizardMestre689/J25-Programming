@@ -46,9 +46,9 @@ public class PrintTest {   // Save as "PrintTest.java"
 ```
 
 ## Variable declaration
-- Int: Numbers without decimals
-- Double: Numbers with decimals
-- String: Words or characters
+- **Int:** Numbers without decimals
+- **Double:** Numbers with decimals
+- **String:** Words or characters
   
 ```java
 int sum;              // Declare a variable named "sum" of the type "int" for storing an integer.
