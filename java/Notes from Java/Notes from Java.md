@@ -1,4 +1,7 @@
-![BassMetalGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/be45e5c9-acf7-4206-9d1c-d7cc3da6e4ea)# 🗒️Notes from the class🗒️
+# 🗒️Notes from the class🗒️
+
+---
+
   - ## **Second Trimester**
   
 ---
