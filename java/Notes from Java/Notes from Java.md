@@ -135,6 +135,7 @@ public class RunningNumberSum {  // Save as "RunningNumberSum.java"
    }
 }
 ```
+![SmlCodyGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/19ba7d7d-2927-424c-845b-9b7294b82a32)
 
 ### How it works?
 final int LOWERBOUND = 1;
