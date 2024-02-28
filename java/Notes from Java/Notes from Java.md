@@ -20,8 +20,12 @@
 - **High-level and low level abstraction**: High level is a very general level of abstraction and low level is a very specific abstraction.
 - **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
 
+![BoomBombGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/d36cad11-a0ae-420c-a450-95304b1c86d1)
+
 ---
 ### Extended information in Spanish
+
+![WorldFlagGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/ccb9b05d-2422-470c-8c57-04d83c401592)
 
 ---
 
