@@ -76,4 +76,4 @@ The first program calculates the sum of all numbers from 1 to 1000 that are divi
 
 The second program counts the number of leap years between 999 and 2010 (inclusive) and prints each leap year with "AD" appended to it, then it prints the total number of leap years found.
 
-[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/java/While%20java)
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/While%20Java%202/code)
