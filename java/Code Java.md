@@ -17,11 +17,15 @@ Exercice 1
 
 This code has a variation in Lines 18-31 into one single println() statement, using '+' to concatenate all the items together.
 
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Basic%20Arthmetic%20Problems/Exe%201.%20java)  
+
 ---
 Exercice 2
 ---
 
 In this code we chaged the code for it to do a multiplication sign in an arithmetic expression, e.g., x = 5a + 4b. In programming, you need to explicitly provide all the operators, i.e., x = 5a + 4b. Try printing the sum of 31 times of number1 and 17 times of number2.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Basic%20Arthmetic%20Problems/Exe%202.java)
 
 ---
 Exercice 3
@@ -29,7 +33,7 @@ Exercice 3
 
 This code had to write a program called SumProduct3Numbers, which introduces one more int variable called number3, and assign it an integer value of 77. Compute and print the sum and product of all the three numbers.
 
-[Link to the code](https://github.com/LizardMestre689/J25-Programming/tree/main/java/Basic%20Arthmetic%20Problems)
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Basic%20Arthmetic%20Problems/Exe%203.java)
 
 ## While Java Exercices
 ---
