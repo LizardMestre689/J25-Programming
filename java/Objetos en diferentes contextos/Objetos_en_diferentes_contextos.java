@@ -1,39 +1,41 @@
-Motos
+Motos                             // String en mayusculas
+                                  // int,double,long en minusculas
+                                  // cilinder,rpm,caballos en minusculas
 
 +---------------------------------+
-|           Motos de GP           |
+|              Motos              |  // de GP
 +---------------------------------+
-| - Int: Cilindrada (cm3)         |
-| - Double: Caballos              |
-| - String: Sponsors              |    // (Lenovo, Honda, Repsol, Yamaha, etc)
-| - String: Equipo                |
-| - String: Piloto                |
-| - Long: RPM                     |
-+---------------------------------+
-
-+---------------------------------+
-|         Motos en Venta          |
-+---------------------------------+
-| - String: Matricula             |
-| - Int: Kilometrage              |
-| - String: Marca                 |
-| - String: Colour                |
-| - Int: Numero de asientos       |
-| - Long: Precio                  |
-| - String: Tipo de moto          |    // (Naked, Supermotard, R's, Trail, etc)
-| - Boolean: Le faltan piezas     |
+| - int: cilindrada (cm3)         |
+| - double: caballos              |
+| - String[]: sponsors            |    // (Lenovo, Honda, Repsol, Yamaha, etc)
+| - String: equipo                |
+| - String: piloto                |
+| - long: rpm                     |
 +---------------------------------+
 
 +---------------------------------+
-|         Motos de Jugete         |
+|             Motos               |  // en Venta
 +---------------------------------+
-| - Boolean: Te puedes montar     |
-| - String: Materiar              |
-| - Boolean: Es teleridijido      |
-| - Int: Numero de Ruedas         |
-| - Int: Precio                   |
-| - Boolean: De coleccion         |
-| - String: Marca de fabricante   |  // (Hotwheels, Mecano, Lego, etc)
+| - String: matricula             |
+| - long: kilometrage             |
+| - String: marca                 |
+| - String: colour                |
+| - int: asientos                 |
+| - long: precio                  |
+| - String: tipo                  |    // (Naked, Supermotard, R's, Trail, etc)
+| - boolean: leFaltanPiezas       |
++---------------------------------+
+
++---------------------------------+
+|             Motos               |  // de Jugete
++---------------------------------+
+| - boolean: tePuedesMontar       |
+| - String: materiar              |
+| - boolean: teleridigido         |
+| - int: ruedas                   |
+| - int: precio                   |
+| - boolean: deColeccion          |
+| - String: marcaDeFabricante     |  // (Hotwheels, Mecano, Lego, etc)
 +---------------------------------+
 
 
