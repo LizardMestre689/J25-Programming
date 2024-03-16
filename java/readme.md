@@ -38,7 +38,7 @@ This code had to write a program called SumProduct3Numbers, which introduces one
 ---
 ## Tarea clase jueves Java 09 del 02
 
-Task 1
+- Task 1
 
 ## Eje 1
 
@@ -47,7 +47,9 @@ Explicacion:
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Tarea%20clase%20jueves%20Java%2009%20del%2002/Eje%201/Ejercicio%201.java)
 
-Task 2
+---
+
+- Task 2
 
 ## Eje 2
 
