@@ -35,6 +35,29 @@ This code had to write a program called SumProduct3Numbers, which introduces one
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Basic%20Arthmetic%20Problems/Exe%203.java)
 
+---
+## Tarea clase jueves Java 09 del 02
+
+Task 1
+
+## Eje 1
+
+---
+Explicacion:
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Tarea%20clase%20jueves%20Java%2009%20del%2002/Eje%201/Ejercicio%201.java)
+
+Task 2
+
+## Eje 2
+
+---
+Explicacion:
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Tarea%20clase%20jueves%20Java%2009%20del%2002/Eje%202/Ejercicio%202.java)
+
+---
+
 ## While Java Exercices
 ---
 
@@ -103,3 +126,23 @@ On the fifth one we have to create an instance of a circle with default radius b
 To create book objects, use the blueprint provided by the Book class. By designating instance variables as private and utilizing public getters and setters to access and modify the book's data, the class leverages data encapsulation. Additionally, it has constructors that may be used to create the object with specific attributes like the author or title, or it can be used with default values.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Class%20Books/Exercice%20Books.java)
+
+---
+
+## Objects in different context
+---
+We had to create OPP in 3 different contexs, I have chousen Motorcicles, in GP context, Motorcicle Shop context and Motorcicle Toy Shop context.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Objetos%20en%20diferentes%20contextos/Objetos_en_diferentes_contextos.java)
+
+---
+
+## OPP create 2 models
+---
+
+We had to drow 2 OPP models related or not to the previuos task, I have made one of toy motorcicles and shop of motorcicles.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/OOP%20crear%202%20modelos/OOP%20crear%202%20modelos.md)
+
+---
+
