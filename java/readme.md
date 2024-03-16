@@ -148,3 +148,12 @@ We had to drow 2 OPP models related or not to the previuos task, I have made one
 
 ---
 
+## OPP findBookByTitle
+---
+
+In this exercice we had to change a code that was in HackMd, we had to change the code for it to find a book by it's title and not from it's ISBN.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/OPP%20findBookByTitle/findBookByTitle.java)
+
+---
+
