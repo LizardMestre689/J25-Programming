@@ -77,3 +77,27 @@ The first program calculates the sum of all numbers from 1 to 1000 that are divi
 The second program counts the number of leap years between 999 and 2010 (inclusive) and prints each leap year with "AD" appended to it, then it prints the total number of leap years found.
 
 [Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/While%20Java%202/code)
+
+--- 
+
+## Circle
+---
+On the first one we have to create an instance of a circle with default parameter.
+
+On the second one we have to create an instance of a circle with radius 5.
+
+On the third one we have to create an instance of a circle with radius 10 and the color green.
+
+On the fourth one we have to create an instance of a circle with radius -2 and the color greenish.
+
+On the fifth one we have to create an instance of a circle with default radius but colo blue.
+
+[Link to the code](https://github.com/LizardMestre689/J25-Programming/blob/main/java/Circles/Circles.java)
+
+---
+
+## Class Books
+
+---
+
+To create book objects, use the blueprint provided by the Book class. By designating instance variables as private and utilizing public getters and setters to access and modify the book's data, the class leverages data encapsulation. Additionally, it has constructors that may be used to create the object with specific attributes like the author or title, or it can be used with default values.
