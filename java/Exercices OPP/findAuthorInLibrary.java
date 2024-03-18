@@ -5,8 +5,8 @@
 Public boolean findAuthorInLibrary (String author) {
   for(int i = 0; i < library.length ; i++){
     if (findAuthorInLibrary){
-      return true
+      return true;
         }
     }
-      return false
+      return false;
 }
