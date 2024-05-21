@@ -161,6 +161,7 @@ The arquitecture that brawl stars use is the next one:
 
 
 ## IT
+---
 ### What in the world is IT?
 IT is the area or department of a company that is responsible for creating and managing computer and technological systems.
 
@@ -190,6 +191,7 @@ IT is the area or department of a company that is responsible for creating and m
     - System operative
   
 ## Systems
+---
 - **DBA (Database Admin):** Manages the database system and its maintenance.
   - *System operative:* Deals with the operating system.
 
@@ -210,6 +212,7 @@ IT is the area or department of a company that is responsible for creating and m
     - *Special effects, CGI:* Various visual effects techniques.
 
 ## Environments
+---
 
 Only developers can see this
 
