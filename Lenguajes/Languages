@@ -24,7 +24,7 @@ This is a rudimentary version of what an HTML web looks like, obviusly this is a
 
 
 
-The code behind this rudimentary web is this one (for you to see an example):
+The code of this web is this one:
 
 
 
@@ -51,6 +51,8 @@ Mateo
 
 
 Alicia
+
+---
 
 ## Static and dynamic web pages
 ### Static
@@ -145,7 +147,6 @@ The arquitecture that brawl stars use is the next one:
   - Signal through the air
 
 
-![DwightTheOfficeGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/e5ce5207-05d4-454c-b41d-c86a26208bb0)
 
 ## IT
 ### What in the world is IT?
