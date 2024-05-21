@@ -11,9 +11,12 @@ The markup itself typically consists of a set of predefined tags or codes that a
 ### HTML (HyperText Markup Language)
 HTML is the standard markup language used for creating web pages and web applications. It defines the structure of a web page by using tags.
 
+![Imagen de WhatsApp 2024-05-21 a las 19 04 20_fa71c2fb](https://github.com/LizardMestre689/J25-Programming/assets/144990985/1acfe6f7-f749-4375-9b28-85c988093fc9)
+
 
 Example of HTML:
 
+![Imagen de WhatsApp 2024-05-21 a las 19 04 23_8b469fde](https://github.com/LizardMestre689/J25-Programming/assets/144990985/c7261fb4-3702-4baf-884c-4561f3eb77d3)
 
 
 ### XML (eXtensible Markup Language)
@@ -25,7 +28,7 @@ This is a rudimentary version of what an HTML web looks like, obviusly this is a
 
 The code of this web is this one:
 
-
+![Imagen de WhatsApp 2024-05-21 a las 19 04 20_fa71c2fb](https://github.com/LizardMestre689/J25-Programming/assets/144990985/1acfe6f7-f749-4375-9b28-85c988093fc9)
 
 ## Identation
 Identation is adding space or tabs at the beginning of a line of text to visually distinguish it from the other lines. It also makes it easier to understand.
