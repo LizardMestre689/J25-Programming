@@ -1,4 +1,5 @@
-# Binary Code
+# Binary Code (0/1)
+---
 ## What is binary code?
 Binary code is a system of representing text, computer processor instructions, or any other data using a binary system, which relies on two symbols, typically represented as 0 and 1. Binary code is the language all computers in the world use.
 
@@ -16,7 +17,6 @@ So:
 - 8 bits = 256 valores 
 
 
-![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/97e6030a-e048-4209-b9cd-09c10c047c97)
 
 ## Multiples of binary code
 - 1 **KByte** = 1 kB = 1024 bytes (2^10 Bytes)
