@@ -55,9 +55,10 @@ Mateo
 
 Alicia
 
----
+
 
 ## Static and dynamic web pages
+---
 ### Static
 
 Static web pages are what you see is what you get. They're made using HTML, CSS, and sometimes JavaScript, and they pretty much stay the same unless someone edits the code behind it.
@@ -94,6 +95,7 @@ Dynamic web pages are made by the server in real-time, depending on what users d
 
 
 ## Networks
+---
 ### Architecture:
 - Client-server
   - Client-side:
@@ -160,7 +162,7 @@ The arquitecture that brawl stars use is the next one:
 
 
 
-## IT
+## IT🖱️⌨️
 ---
 ### What in the world is IT?
 IT is the area or department of a company that is responsible for creating and managing computer and technological systems.
