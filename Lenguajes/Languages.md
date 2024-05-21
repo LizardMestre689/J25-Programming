@@ -23,12 +23,12 @@ XML is a versatile markup language used for storing and transporting data. It al
 ##HTML web made by us
 This is a rudimentary version of what an HTML web looks like, obviusly this is a very primitive one since we where only experimenting with the different tags that HTML files have. 
 
-
+![Imagen de WhatsApp 2024-05-21 a las 19 04 20_fa71c2fb](https://github.com/LizardMestre689/J25-Programming/assets/144990985/1acfe6f7-f749-4375-9b28-85c988093fc9)
 
 The code of this web is this one:
 
+![Imagen de WhatsApp 2024-05-21 a las 19 04 23_8b469fde](https://github.com/LizardMestre689/J25-Programming/assets/144990985/c7261fb4-3702-4baf-884c-4561f3eb77d3)
 
-![Imagen de WhatsApp 2024-05-21 a las 19 04 20_fa71c2fb](https://github.com/LizardMestre689/J25-Programming/assets/144990985/1acfe6f7-f749-4375-9b28-85c988093fc9)
 
 
 ## Identation
@@ -73,6 +73,7 @@ Static web pages are what you see is what you get. They're made using HTML, CSS,
 - [Space Jam Web](https://www.spacejam.com/1996/jam.htm)
 - [David Prieto Web](https://fabacademy.org/2020/labs/barcelona/students/david-prieto/)
 
+![imagen](https://github.com/LizardMestre689/J25-Programming/assets/144990985/5d09f727-532e-4154-aa17-4b3d27eb0456)
 
 ### Dynamic 
 
@@ -127,7 +128,10 @@ Not only on the internet but also applicable to other connections.
 
 
 
-### Example with Brawl Stars
+### Example with Brawl Star
+---
+
+![imagen](https://github.com/LizardMestre689/J25-Programming/assets/144990985/29d52274-af25-4ea0-b025-e737d9848e4a)
 
 
 The arquitecture that brawl stars use is the next one:
@@ -199,9 +203,10 @@ IT is the area or department of a company that is responsible for creating and m
     - *Animation of a character with skeletons:* Animates characters.
   - **VFX (Visual Effects):** Creates CGI and special effects.
     - *Special effects, CGI:* Various visual effects techniques.
+
 ## Environments
 
-*Only developers can see this*
+Only developers can see this
 
 - **Local Environment**
   - Developer's computer
@@ -217,6 +222,8 @@ IT is the area or department of a company that is responsible for creating and m
 
 - **Pro (Production)**
   - Public, visible to everyone
+ 
+
 ### Examples
 - **Web Pizzeria:**
   - Local -> Test -> PRO
@@ -229,4 +236,4 @@ IT is the area or department of a company that is responsible for creating and m
 - **World of Warcraft (WoW):**
   - Local -> Test -> PRE -> openBeta -> PRO
 
-*Note: Test and Integration often go hand in hand.*
+Test and Integration often go hand in hand.
