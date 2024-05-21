@@ -76,7 +76,12 @@ Static web pages are what you see is what you get. They're made using HTML, CSS,
 ![imagen](https://github.com/LizardMestre689/J25-Programming/assets/144990985/5d09f727-532e-4154-aa17-4b3d27eb0456)
 
 ### Dynamic 
+---
+**Examples:**
 
+- [Youtube](https://www.youtube.com/)
+
+![imagen](https://github.com/LizardMestre689/J25-Programming/assets/144990985/e0e5f6f4-7152-4836-9610-7e2208aef361)
 
 Dynamic web pages are made by the server in real-time, depending on what users do. They usually run on server-side technologies like PHP, Python, Ruby, or Node.js, which let them change things in real-time and interact with users.
 
