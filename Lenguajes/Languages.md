@@ -32,6 +32,7 @@ The code of this web is this one:
 
 
 ## Identation
+---
 Identation is adding space or tabs at the beginning of a line of text to visually distinguish it from the other lines. It also makes it easier to understand.
 
 
