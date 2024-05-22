@@ -247,5 +247,7 @@ Sólo los desarrolladores pueden ver esto
 
 - **World of Warcraft (WoW):**
   - Local -> Test -> PRE -> openBeta -> PRO
+    
+![png-transparent-world-of-warcraft-wrath-of-the-lich-king-warlords-of-draenor-world-of-warcraft-legion-world-of-warcraft-battle-for-azeroth-world-of-warcraft-cataclysm-blizzard-miscellaneous-game-text-thumbnail](https://github.com/LizardMestre689/J25-Programming/assets/144990985/9034f306-9d20-4d96-a04a-05bbcdf80d2b)
 
-Test and Integration often go hand in hand.
+Test and Integration often go hand in hand. (Las pruebas y la integración suelen ir de la mano.)
