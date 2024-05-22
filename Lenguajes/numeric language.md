@@ -1,15 +1,15 @@
-# Binary Code (0/1)
+# Código binario (0/1)
 ---
-## What is binary code?
-Binary code is a system of representing text, computer processor instructions, or any other data using a binary system, which relies on two symbols, typically represented as 0 and 1. Binary code is the language all computers in the world use.
+## ¿Qué es el código binario?
+El código binario es un sistema de representación de texto, instrucciones de procesador informático o cualquier otro dato mediante un sistema binario, que se basa en dos símbolos, normalmente representados como 0 y 1. El código binario es el lenguaje que utilizan todos los ordenadores del mundo.
 
 
-In binary code, each digit is referred to as a bit and a sequence of eight bits is called a byte. Each bit in a binary number can have 2 posible values of information. 
+En código binario, cada dígito se denomina bit y una secuencia de ocho bits se denomina byte. Cada bit de un número binario puede tener dos posibles valores de información. 
+
 - 1 bit = b
 - 8 bits = 1 byte = B (2^8 posibles valores)
 
 
-So:
 - 1 bit = 2 valores posibles
 - 2 bits = 4 valores posibles
 - 3 bits = 8 valores posibles
@@ -18,66 +18,67 @@ So:
 
 
 
-## Multiples of binary code
+## Múltiplos de código binario
 - 1 **KByte** = 1 kB = 1024 bytes (2^10 Bytes)
 - 1 **MByte** = 1 MB = 1024 kB = 2^10 kB = 2^20 B
 - 1 **GByte** = 1024 MB = 2^10 MB = 2^30 bytes = 2^33bits
 - 1 **TByte** = 1024 GB = 2^40B = 2^43 bits
-## Advantages and disadvantages
-- It is really easy to do a binary circuit
+## Ventajas y desventajas
+- Es muy fácil hacer un circuito binario
 
 
 ![download](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/8abe60d4-33e7-43bd-b892-986a5d198545)
-- Aritmetic operations are longer but easier.
-- Binary numbers are really long compared to other languages becuase they are harder for humans but they are easy for cumputers.
-    - Example:
-      - 4 numbers in decimal are equal to 10 in binary 2^9 < 1000 (in decimal) < 2^10
-## Nomenclature
-To specify the type of number we have to put "HEX", "DEC" or "OCT" in the bottom of the number as a subindex.
+- Las operaciones aritméticas son más largas pero más fáciles.
+- Los números binarios son muy largos en comparación con otros lenguajes porque son más difíciles para los humanos pero más fáciles para los ordenadores.
+    - Ejemplo:
+      - 4 números en decimal equivalen a 10 en binario 2^9 < 1000 (en decimal) < 2^10
+## Nomenclatura
+Para especificar el tipo de número tenemos que poner "HEX", "DEC" u "OCT" en la parte inferior del número como subíndice.
 
 
 ![image](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/59c007f2-5ce4-4d57-9942-d539bb915e77)
 
 # Hexadecimal
-Hexadecimal goes from 0-9 and A-F. 
+El hexadecimal va del 0 al 9 y de la A a la F. 
 
 
 ![1552a7a7b6a3bf5f1adb1dde5295b6e6](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/92dd8a73-975b-4ae2-ba6f-7cade85762e4)
 
-# Transformations
-## Binary to decmial
-To pass a binary number to decimal what we have to do is this:
+# Transformaciones
+## Binario a decmial
+Para pasar un número binario a decimal lo que tenemos que hacer es lo siguiente:
 
 
 ![Imagen de WhatsApp 2024-05-07 a las 19 05 51_cede1f55](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/34bb1b44-c383-4eff-9884-31e66aa93800)
 
 
 
-So each time there is a 1 you have to put the number that it is times how many steps you took minus one. So the third 1 in the photo is 2^3 because it's the fourth step minus one. And repeat this each time you sea a 1. And then when you finish the number, you have to add all of this nummbers. So in this case 2^7 + 2^6 + 2^3 + 2^1 + 2^0 = 203
+Así que cada vez que hay un 1 tienes que poner el número que es multiplicado por cuántos pasos diste menos uno. Así que el tercer 1 de la foto es 2^3 porque es el cuarto paso menos uno. Y repite esto cada vez que veas un 1. Y luego cuando termines el número, tienes que sumar todos estos números. Así que en este caso 2^7 + 2^6 + 2^3 + 2^1 + 2^0 = 203
 
-## Decimal to binary
-It is very easy, you just start dividing by two and then the reminder is going to be the binary number:
+
+## Decimal a binario
+Es muy fácil, sólo tienes que empezar a dividir por dos y, a continuación, el recordatorio va a ser el número binario:
 
 
 ![Imagen de WhatsApp 2024-05-07 a las 19 12 28_9aedbb07](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/6a62918d-bb6b-4d10-b290-071254d8ca79)
 
 
-So when you have all of the reminders, you put them in order from the bottom to the top and that's it.
-## Binary to hexadecimal
-So there are two ways of doing it but I am going to explain the one I use. If you have a binary number and you want to pass it to hexadecimal I just pass the binary to decimal and then from decimal to hexadecimal by dividing by 16 all the time just like we do when passing from decimal to binary:
+Así que cuando tengas todos los recordatorios, los pones en orden de abajo a arriba y listo.
+## Binario a hexadecimal
+Hay dos formas de hacerlo pero voy a explicar la que yo uso. Si tienes un número binario y lo quieres pasar a hexadecimal yo simplemente paso el binario a decimal y luego de decimal a hexadecimal dividiendo por 16 todo el rato igual que hacemos al pasar de decimal a binario:
 
 
 ![Imagen de WhatsApp 2024-05-07 a las 19 19 57_ae4b1177](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4603c954-7340-419a-8f70-b224090cabe8)
 
 
-## Hexadecimal to decimal
-As we did when passing from binary to decmial, we do the same thing but instead of a base 2 we use a base 16:
+## Hexadecimal a decimal
+Como hicimos al pasar de binario a decmial, hacemos lo mismo pero en vez de base 2 usamos base 16:
 
 
 ![Imagen de WhatsApp 2024-05-07 a las 19 30 19_98f8ee56](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bbdafa84-ba4b-41d8-9d8d-60b7f7a46c59)
 
-## Decimal to hexadecimal
-Same as in binary but dividing by 16:
+## Decimal a hexadecimal
+Igual que en binario pero dividiendo por 16:
 
 
 ![Imagen de WhatsApp 2024-05-07 a las 19 19 57_ae4b1177](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4603c954-7340-419a-8f70-b224090cabe8)
