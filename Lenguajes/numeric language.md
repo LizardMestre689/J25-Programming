@@ -49,7 +49,7 @@ El hexadecimal va del 0 al 9 y de la A a la F.
 Para pasar un número binario a decimal lo que tenemos que hacer es lo siguiente:
 
 
-![Imagen de WhatsApp 2024-05-07 a las 19 05 51_cede1f55](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/34bb1b44-c383-4eff-9884-31e66aa93800)
+![Imagen de WhatsApp 2024-05-22 a las 19 04 37_5d8e642b](https://github.com/LizardMestre689/J25-Programming/assets/144990985/6654a631-5d40-4c21-886a-7a65ee135d61)
 
 
 
@@ -60,25 +60,29 @@ Así que cada vez que hay un 1 tienes que poner el número que es multiplicado p
 Es muy fácil, sólo tienes que empezar a dividir por dos y, a continuación, el recordatorio va a ser el número binario:
 
 
-![Imagen de WhatsApp 2024-05-07 a las 19 12 28_9aedbb07](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/6a62918d-bb6b-4d10-b290-071254d8ca79)
+![Imagen de WhatsApp 2024-05-22 a las 19 09 37_83a455dc](https://github.com/LizardMestre689/J25-Programming/assets/144990985/73fb6fa2-b19b-4a31-80c0-4e6d4ba93091)
+
 
 
 Así que cuando tengas todos los recordatorios, los pones en orden de abajo a arriba y listo.
+
 ## Binario a hexadecimal
-Hay dos formas de hacerlo pero voy a explicar la que yo uso. Si tienes un número binario y lo quieres pasar a hexadecimal yo simplemente paso el binario a decimal y luego de decimal a hexadecimal dividiendo por 16 todo el rato igual que hacemos al pasar de decimal a binario:
+Para pasar de binario a hexadecimal es bien simple, tenemos que agrupar los numeros binarios en grupos de cuatro empezando de desde la derecha, una vez ya tengamos los grupos de cuatro hechos, miraremos la tabla de hex, dec y bin, miraremos en el apartado de binario el numero que coresponda al hexadecimal, y así podremos pasar de binario a hexadecimal
 
 
-![Imagen de WhatsApp 2024-05-07 a las 19 19 57_ae4b1177](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4603c954-7340-419a-8f70-b224090cabe8)
+![Imagen de WhatsApp 2024-05-22 a las 19 17 33_f7a96c6c](https://github.com/LizardMestre689/J25-Programming/assets/144990985/f2a5205b-1ccb-495b-b45b-e1dae4471e97)
 
 
 ## Hexadecimal a decimal
-Como hicimos al pasar de binario a decmial, hacemos lo mismo pero en vez de base 2 usamos base 16:
+Para pasar de hexadecimal a decimal usaremos la tabla de bin, dec, hex. Buscaremos los numeros de hexadecimal en la tabla y miraremos con cual coresponde en el apartad de numeros binarios, y copiaremos los numeros:
 
 
-![Imagen de WhatsApp 2024-05-07 a las 19 30 19_98f8ee56](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/bbdafa84-ba4b-41d8-9d8d-60b7f7a46c59)
+![Imagen de WhatsApp 2024-05-22 a las 19 19 51_5bef2ca0](https://github.com/LizardMestre689/J25-Programming/assets/144990985/c73d3c72-03ee-48b5-a7fa-615d645427aa)
+
 
 ## Decimal a hexadecimal
 Igual que en binario pero dividiendo por 16:
 
 
-![Imagen de WhatsApp 2024-05-07 a las 19 19 57_ae4b1177](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/4603c954-7340-419a-8f70-b224090cabe8)
+![Imagen de WhatsApp 2024-05-22 a las 19 11 44_b274d45a](https://github.com/LizardMestre689/J25-Programming/assets/144990985/95e50212-d988-440d-8d33-56dc0b80b40d)
+
