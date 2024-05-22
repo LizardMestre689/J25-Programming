@@ -111,6 +111,8 @@ URL = Uniform Resource Locator. "URL" is different from a Link:
 
 After a question mark (?) in a URL, variables come, usually found in YouTube URLs:
 
+![9a0b7979-ae81-49f1-8790-6965c9c08f81](https://github.com/LizardMestre689/J25-Programming/assets/144990985/3dd80bad-feba-4049-a542-5842e2ea503c)
+
 
 What each part does:
 - https:// → Protocol
@@ -134,6 +136,7 @@ ISP, DNS, Server: Non-physical components
 ### Wi-Fi Arquitecture
 Not only on the internet but also applicable to other connections.
 
+![330144622-32a35a69-4a55-4919-8c9a-fe1e3974f3e0](https://github.com/LizardMestre689/J25-Programming/assets/144990985/299ce737-d2da-435b-abbf-3f8c544880f3)
 
 
 ### Example with Brawl Star
@@ -166,7 +169,7 @@ The arquitecture that brawl stars use is the next one:
 ## IT🖱️⌨️
 ---
 ### What in the world is IT?
-IT is the area or department of a company that is responsible for creating and managing computer and technological systems.
+IT is the department of a company that is responsible for creating and managing computer and technological systems.
 
 ### Development and Maintenance (of software)
 
@@ -184,18 +187,18 @@ IT is the area or department of a company that is responsible for creating and m
   - **Software Architect**
     - Outlines the main lines
 - **QA:**
-  - *Quality Assurance* (They don't necessarily have to know how to program)
+  - Quality Assurance (They don't necessarily have to know how to program)
   - Quality department
     - Review the program
 - **DBA**
-  - *Data Base Admin*
+  - Data Base Admin
   - Maintenance personnel
-  - *Sysof*
+  - Sysof
     - System operative
   
 ## Systems
 ---
-- **DBA (Database Admin):** Manages the database system and its maintenance.
+- **DBA (Data Base Admin):** Manages the database system and its maintenance.
   - *System operative:* Deals with the operating system.
 
 
@@ -213,6 +216,7 @@ IT is the area or department of a company that is responsible for creating and m
     - *Animation of a character with skeletons:* Animates characters.
   - **VFX (Visual Effects):** Creates CGI and special effects.
     - *Special effects, CGI:* Various visual effects techniques.
+![3d3dJumpscareGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/84a89d87-61cb-461d-bde8-1f4615d30364)
 
 ## Environments
 ---
