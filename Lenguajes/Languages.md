@@ -241,6 +241,7 @@ Sólo los desarrolladores pueden ver esto
 
 - **Generalli:**
   - Local -> INT -> QA -> PRE -> PRO
+  
 ![download](https://github.com/LizardMestre689/J25-Programming/assets/144990985/a60badc7-e6e1-4600-ac94-9b14828c3aa0)
 
 
