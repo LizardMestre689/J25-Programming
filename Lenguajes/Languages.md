@@ -211,7 +211,7 @@ IT es el departamento de una empresa que se encarga de crear y gestionar sistema
   - **Rigging:** Prepara modelos para animación.
     - **Animación de un personaje con esqueletos:** Anima personajes.
   - **VFX (Efectos visuales):** Crea CGI y efectos especiales.
-    - Efectos especiales, CGI:* Diversas técnicas de efectos visuales.
+    - Efectos especiales, CGI:*Diversas técnicas de efectos visuales.*
 ![3d3dJumpscareGIF](https://github.com/LizardMestre689/J25-Programming/assets/144990985/84a89d87-61cb-461d-bde8-1f4615d30364)
 
 ## Entornos
